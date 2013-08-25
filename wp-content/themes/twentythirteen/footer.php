@@ -16,8 +16,7 @@
 			<?php get_sidebar( 'main' ); ?>
 
 			<div class="site-info">
-				<?php do_action( 'twentythirteen_credits' ); ?>
-				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'twentythirteen' ) ); ?>" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'twentythirteen' ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentythirteen' ), 'WordPress' ); ?></a>
+				<p>&copy;2013 Lloyd Dobler Gallery, 1545 W. Division St., Chicago, IL 60622</p>
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
